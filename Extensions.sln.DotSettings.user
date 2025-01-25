@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b38667c_002D58fe_002D4a1a_002D9744_002D7932023b4c8d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetOrAdd_ShouldReturnValue_WhenValueExistsInDictionary" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.GetOrAdd_ShouldReturnValue_WhenValueExistsInDictionary&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.VerifyChecksTests.Run&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.GetOrAdd_ShouldReturnNewValue_WhenValueDoesNotExistInDictionary&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.GetOrAdd_ShouldReturnNull_WhenValueIsNull&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.TryUpdate_ShouldReturnFalse_WhenValueDoesNotExistInDictionary&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.TryUpdate_ShouldReturnTrue_WhenValueExistsInDictionary&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::350AFEC8-CE6E-430C-8FB3-DBD3F3B4271A::net9.0::TestExtensions.DictionaryTests.TryUpdate_ShouldThrowException_WhenValueIsNull&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
